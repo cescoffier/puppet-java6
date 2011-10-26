@@ -2,7 +2,7 @@ Java 6 Puppet Module for Ubuntu
 ===============================
 
 Simple Puppet module installing Java 6.
-This module requires the apt module because JAva 6 is installed using _apt-get_
+This module requires the apt module because Java 6 is installed using _apt-get_
 
 Example
 -------
