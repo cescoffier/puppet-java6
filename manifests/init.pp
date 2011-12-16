@@ -27,7 +27,7 @@ define java6 ($present = true) {
 	
 	# To automate License agreement
 	file { "/var/cache/debconf/sun-java6.preseed":
-	    source => "puppet:///modules/jdk6/sun-java6.preseed",
+	    source => "puppet:///modules/java6/sun-java6.preseed",
 	    ensure => present
 	}
 	
