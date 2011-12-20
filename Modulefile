@@ -1,5 +1,5 @@
 name    'cescoffier-java6'
-version '0.0.1'
+version '0.0.2'
 author 'Clement Escoffier, akquinet tech@spree gmbh'
 license 'Apache Software License 2.0'
 summary 'Installs Java 6 on Ubuntu'
